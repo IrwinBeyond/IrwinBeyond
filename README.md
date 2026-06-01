@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="center">🎓 4th Semester Applied Bachelor's Student in Informatics Engineering @ PENS<br>💻 Interested in Software Engineering, Web Development, and UI/UX<br>🎨 Enjoy Photo Manipulation and Digital Design<br>📖 Anime, Manga, and Manhwa Enthusiast<br>❤️ Favorite Genres: Romance, Fantasy, Shoujo, Otome Isekai, Villainess, School Life<br>🎵 Listening to R&B, J-Pop, Rock, Hip-Hop, Shoegaze, Dreampop, and Ballads<br><br>Currently learning, building, and experimenting with new technologies</h5>
+<h5 align="center">🎓 4th Semester Applied Bachelor's Student in Informatics Engineering @ PENS<br>💻 Interested in Software Engineering, Artificial Intelligence, and UI/UX<br>🎨 Enjoy Photo Manipulation and Digital Design<br>📖 Anime, Manga, and Manhwa Enthusiast<br>❤️ Favorite Genres: Romance, Fantasy, Shoujo, Otome Isekai, Villainess, School Life<br>🎵 Listening to R&B, J-Pop, Rock, Hip-Hop, Shoegaze, Dreampop, and Ballads<br><br>Currently learning, building, and experimenting with new technologies</h5>
 
 ###
 
