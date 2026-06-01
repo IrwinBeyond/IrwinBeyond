@@ -96,12 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
 
-###
-
-<h1 align="center"></h1>
-
-###
-
 <h1 align="center">📈GitHub Stats</h1>
 
 ###
