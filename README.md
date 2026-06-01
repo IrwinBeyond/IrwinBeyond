@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile! I share projects, experiments, and ideas as I keep learning and building with code.
+
 <!--
 **IrwinBeyond/IrwinBeyond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
